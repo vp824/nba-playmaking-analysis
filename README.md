@@ -1,4 +1,4 @@
-# Unassisted 🏀
+# UNASSISTED 🏀
 ### How teammate quality shapes NBA playmaking
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](YOUR_TABLEAU_URL)
@@ -110,3 +110,30 @@ FG percentage on a creator's passes minus the recipient's catch and shoot baseli
 ---
 
 ## Repository Structure
+```
+nba-playmaking-analysis/
+│
+├── README.md
+├── notebooks/
+│   └── nba_playmaking_pipeline.ipynb
+├── data/
+│   └── nba_playmaking_all_seasons.csv
+└── dashboard/
+    └── unassisted.twbx
+```
+
+---
+
+## Key Findings
+
+- **Shai Gilgeous-Alexander** consistently has the worst ACR Residual but second best CAS Lift — creates quality looks that below-average teammates fail to convert
+- **Nikola Jokić** is a consistent Volume Creator across all four seasons with one Elite Playmaker season in 2023-24
+- **Stephon Castle** leads all creators in CAS Lift in 2025-26 driven by Luke Kornet as his top recipient
+- **James Harden** shows a sharp decline in 2025-26 after joining Cleveland
+
+---
+
+## Author
+
+Made by Vinze Perez
+[LinkedIn](YOUR_LINKEDIN_URL) · [Tableau Public](YOUR_TABLEAU_URL)
