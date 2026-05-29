@@ -126,10 +126,42 @@ nba-playmaking-analysis/
 
 ## Key Findings
 
-- **Shai Gilgeous-Alexander** consistently has the worst ACR Residual but second best CAS Lift — creates quality looks that below-average teammates fail to convert
-- **Nikola Jokić** is a consistent Volume Creator across all four seasons with one Elite Playmaker season in 2023-24
-- **Stephon Castle** leads all creators in CAS Lift in 2025-26 driven by Luke Kornet as his top recipient
-- **James Harden** shows a sharp decline in 2025-26 after joining Cleveland
+**Shai Gilgeous-Alexander** consistently 
+ranks last in ACR Residual but second in 
+CAS Lift across all four seasons. He creates 
+quality catch-and-shoot looks that his 
+below-average finishing teammates fail to 
+convert, making him the most analytically 
+underrated creator in the sample.
+
+**Nikola Jokić** is a consistent Volume 
+Creator across all four seasons with one 
+Elite Playmaker season in 2023-24 when his 
+teammates dropped below the finishing quality 
+median. He still improved their shooting that 
+season, making it his most impressive 
+playmaking campaign.
+
+**Stephon Castle** leads all 2025-26 creators 
+in CAS Lift driven by Luke Kornet as his top 
+recipient. Notably Wembanyama shows negative 
+shooting lift on Castle's passes, suggesting 
+Castle's elite lift score is recipient 
+dependent rather than a broad playmaking trait.
+
+**James Harden** shows a sharp decline in 
+ACR Residual in 2025-26 after joining 
+Cleveland, dropping from rank #1 in 2024-25 
+to #11. This suggests his elite playmaking 
+was partly system and context dependent 
+rather than a stable individual trait.
+
+**Jamal Murray** consistently ranks #1 in 
+TQI across all four seasons with Nikola 
+Jokić as his primary recipient. Yet he posts 
+the worst ACR Residual in the sample, 
+confirming his assists are the most 
+teammate dependent in the dataset.
 
 ---
 
